@@ -1,0 +1,10 @@
+.search-wrapper{
+    display: flex;
+    justify-content: center;
+  
+}
+#name-search{
+    margin-top: 2rem;
+    width: 700px;
+    padding: 1.5rem;
+}
