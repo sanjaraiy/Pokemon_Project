@@ -6,7 +6,7 @@ function Pokedex() {
     <div className="pokedex">
        <h1 id='Pokedex-heading'>Pokedex</h1>
        <Search></Search>
-    </div>
+       </div>
   )
 }
 
