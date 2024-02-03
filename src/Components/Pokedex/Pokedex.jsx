@@ -1,12 +1,12 @@
 import Search from '../Search/Search';
 import './Pokedex.css';
-
+import PokemonList from '../PokemonList/PokemonList';
 function Pokedex() {
   return (
     <div className="pokedex">
-       <h1 id='Pokedex-heading'>Pokedex</h1>
        <Search></Search>
-       </div>
+       <PokemonList></PokemonList>
+    </div>
   )
 }
 

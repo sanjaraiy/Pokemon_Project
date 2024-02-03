@@ -1,0 +1,18 @@
+
+.outer-pokedex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#Pokedex-heading{
+    letter-spacing: 5px;
+    margin: 0 auto;
+
+}
+
+a:visited{
+    color: black;
+   
+}
